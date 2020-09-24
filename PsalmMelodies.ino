@@ -1,6 +1,6 @@
 /* Adrian Wojciechowski
  * 
- * number system converter
+ * Plays chosen Psalm melody (just one in this version)
  * lcd 16x2 on AVT 1615
  */
 
